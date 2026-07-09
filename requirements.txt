@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-requests
-certifi
-truststore
-yt-dlp
